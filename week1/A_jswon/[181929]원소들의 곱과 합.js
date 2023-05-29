@@ -12,4 +12,3 @@ function solution(num_list) {
     // boolean 형식의 값을 묵시적으로 형변환한다.
     return +(mul < Math.pow(sum, 2));
 }
-
